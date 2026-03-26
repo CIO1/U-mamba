@@ -117,7 +117,7 @@ wsl --install -d Ubuntu-22.04
 - 等待加载完毕后 输入`accept`接受条款
   ![1](./assets/cudaTool1.png)
 - 移动到`Install`选择回车安装
-   ![2](./assets/cudaTool2.png)
+   ![2](./assets/cudatool2.png)
 
    安装完后运行
    ```bash
